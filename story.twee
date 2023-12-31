@@ -134,7 +134,7 @@ Es gibt mehrere intuitive Erklärungen, wieso der Grenzwert der Folge §a_n=\tfr
     	switch (choice) {
         	case "1": return "die Folge §a_n§ gegen den Grenzwert §a§ strebt";
             case "2": return "die Folge §a_n§ dem Grenzwert §a§ beliebig nah kommt";
-            case "3": return "sich die Folge §a_n§ mit größer werdenden $n$ immer mehr dem Grenzwert §a§ annähert";
+            case "3": return "sich die Folge §a_n§ mit größer werdenden §n§ immer mehr dem Grenzwert §a§ annähert";
             case "4": return "die Folge §a_n§ den Grenzwert §a§ im Unendlichen erreicht.";
         }
     }

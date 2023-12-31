@@ -80,7 +80,7 @@ Du hast gewählt: <%= window.story.state.chosenIntuition?.value %>
 
 Damit hast du eine gute intuitive Vorstellung vom Grenzwert. Liefert diese auch eine gute mathematische Definition des Begriffs? Sprich: Ist diese Vorstellung präzise genug, dass alle Personen den Grenzwertbegriff gleich verwenden und es keine Mehrdeutigkeiten gibt?
 
-* [[Nein,hierzu braucht es eine formale Definition des Grenzwerts|Formale Definition des Grenzwerts finden]]
+* [[Nein, hierzu braucht es eine formale Definition des Grenzwerts|Formale Definition des Grenzwerts finden]]
 * [[Nein, aber eine intuitive Vorstellung reicht vollkommen aus|Erklärung, wieso es eine formale Definition braucht]]
 * [[Ja, es ist bereits eine formale Definition des Grenzwerts|Erklärung, wieso es keine formale Definition ist]]
 
